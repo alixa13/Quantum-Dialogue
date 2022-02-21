@@ -1,2 +1,2 @@
 # Quantum-Dialogue
-Quantum communication codes and simulation 
+Quantum protocols codes and simulations
